@@ -1,0 +1,9 @@
+{
+  "ping":
+  {
+    "category": "entity",
+    "sounds": [{
+      "name": "floppa:ping", "stream": false
+    }]
+  }
+}

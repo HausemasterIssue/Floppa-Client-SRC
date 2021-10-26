@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.floppa.json
+FMLCorePluginContainsFMLMod: true
+FMLAT: floppa_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: me.brownzombie.floppa.mixin.MixinLoader
+
