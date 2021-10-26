@@ -1,0 +1,16 @@
+[
+{
+  "modid": "floppa",
+  "name": "Floppa",
+  "description": "Floppa by BrownZombie and Division.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BrownZombie, Division"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

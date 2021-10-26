@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.brownzombie.floppa.mixin.mixins",
+  "refmap": "mixins.floppa.refmap.json",
+  "mixins": [
+    "MixinEntityPlayerSP",
+    "MixinFontRenderer",
+    "MixinGuiMainMenu",
+    "MixinMinecraft",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinRenderEnderCrystal",
+    "MixinRenderGlobal",
+    "MixinRenderPlayer",
+    "MixinGuiNewChat",
+    "MixinGuiScreen"
+  ]
+}
